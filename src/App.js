@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div >
         <h2>UserName List:</h2>
-        <UserList></UserList>
+        <UserList />
         <hr/>
         <h2>user Details:</h2>
       </div>
